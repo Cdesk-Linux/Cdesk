@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=Paw Cdesk
+Description=Paw theme modified for Cdesk Linux
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/paw-cdesk
+ScriptFile=/usr/share/plymouth/themes/paw-cdesk/paw-cdesk.script
+
+
